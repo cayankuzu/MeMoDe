@@ -16,8 +16,8 @@ const mono = IBM_Plex_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "MeMoDe — Çayan Kuzu / Ürün ve deneyim portföyü",
-  description: "Çayan Kuzu tarafından geliştirilen web deneyimleri, 3B araçlar ve mobil sosyal ürünlerden seçili işler.",
+  title: "Çayan Kuzu — Creative Developer / MeMoDe Portföy",
+  description: "Çayan Kuzu'nun staj ve iş başvuruları için hazırladığı; web, mobil, ürün tasarımı ve 3B deneyimlerden oluşan portföyü.",
 };
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
